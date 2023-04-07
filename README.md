@@ -37,15 +37,22 @@ Example : Suppose a user has to reach a test directory is stored in the location
 10) opt directory
 
 
-•
-
-• 
-• 
-• 
-• 
-• 
-• 
-• 
-
 ### Commands :  
+
+• df –h >> files displayed in human readable form.
+•	pwd >>> path to the present/current file.
+•	rm –rf file (removes recursively and forcefully).
+•	command –help >>> tells flags available in any command.
+• ls –lt –reverse >> shows list in reverse order
+•	ls /proc >>shows linux kernel files
+• ls -l >>>shows contents in a list
+• mkdir creates a directory 
+• touch abc >>>creates abc file
+• man command >> shows flags or features of a particular command. 
+
+#### Creating and managing user in linux:
+
+• su - username >>switching from one user to other user
+•	useradd xyz  >>>>creates xyz user
+•	passwd xyz  >>>>>changes password
 
