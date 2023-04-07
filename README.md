@@ -5,6 +5,14 @@
 ### Concepts:
 ![image](https://user-images.githubusercontent.com/116474264/230573316-8b1eeec2-518f-4585-b20e-2d360589b02d.png)
 
+• The Root is the central command or the father of all partitions 
+• Partition---
+              |
+              |
+              --->directory---
+                             |
+                             |
+                              --->sub-directory
 
 ### Commands :
 
