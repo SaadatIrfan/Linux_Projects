@@ -1,3 +1,10 @@
 # A Pragmatic Approach To Linux 
 -----------------------------------------------------------------------------------------------------------------------------------
-![image](https://user-images.githubusercontent.com/116474264/230572674-b32a1da3-3c35-4b3a-81ae-ac4fa42972e2.png)
+## Fundamentals of Linux
+
+### Concepts:
+![image](https://user-images.githubusercontent.com/116474264/230573316-8b1eeec2-518f-4585-b20e-2d360589b02d.png)
+
+
+### Commands :
+
